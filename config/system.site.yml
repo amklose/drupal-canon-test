@@ -1,0 +1,14 @@
+uuid: 8a97774a-83d0-4c9b-a674-024460bbc8e0
+name: drupal-canon-test
+mail: anthony.klose@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
